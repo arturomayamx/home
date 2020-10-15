@@ -1,2 +1,1 @@
-# index
-AM Arthur
+TinDog Starting Files
