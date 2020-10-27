@@ -27,6 +27,10 @@ h5 {
     max-width: 5rem;
 }
 
+#cap-logo {
+    max-width: 10rem;
+}
+
 .container{
     padding: 5%; 
 }
